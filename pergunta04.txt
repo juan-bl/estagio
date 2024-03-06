@@ -1,0 +1,13 @@
+Supondo que temos os interruptores 1, 2 e 3. Eu ligaria o 1 por alguns segundos e depois desligava ele, e ligaria o 2 e deixaria ele ligado. Então eu vou até a sala com a primeira lâmpada, se estiver ligada, a sala 1 pertence ao interruptor 2, em seguida vou até a segunda sala e toco na lâmpada apagada, se estiver quente, significa que esteve ligada, ou seja a sala 2 pertence ao interruptor 1, se estivesse fria, nunca foi ligada, então pertenceria ao último interruptor que eu nunca liguei, e sendo assim, logicamente a sala 3 pertence ao interruptor 3.
+
+Esse método funcionaria em qualquer ordem.
+
+Resposta:
+
+interruptor 1 - ligado e desligado
+interruptor 2 - ligado
+interruptor 3 - desligado
+
+sala 1 - lâmpada ligada --> interruptor 2
+sala 2 - lâmpada apagada e quente --> interruptor 1
+sala 3 - lâmpada desligada e fria --> interruptor 3

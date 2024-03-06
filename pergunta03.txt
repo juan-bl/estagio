@@ -1,0 +1,35 @@
+A - Resposta: 9 --> A logica é somar o número atual com 2.
+
+1 + 2 = 3
+3 + 2 = 5
+5 + 2 = 7
+7 + 2 = 9
+
+B - Resposta: 128 --> A logica é multiplicar o número atual por 2.
+
+2 * 2 = 4
+4 * 2 = 8
+8 * 2 = 16
+16 * 2 = 32
+32 * 2 = 64
+64 * 2 = 128
+
+C - Resposta: 
+
+D - Resposta: --> A lógica é que cada número é o resultado de um número par ao quadrado.
+
+2 ** 2 = 8
+4 ** 2 = 16
+6 ** 2 = 36
+8 ** 2 = 64
+
+F - Resposta: 200 --> A lógica é que a sequencia formada por números que começam com a letra "D".
+
+2 - Dois
+10 - Dez
+12 - Doze
+16 - Dezesseis
+17 - Deszessete
+18 - Deszoito
+19 - Deszenove
+200 - Duzentos
